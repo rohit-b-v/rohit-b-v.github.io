@@ -9,7 +9,7 @@ last_name: Vijaya
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Hi!, I am Rohit Bangalore Vijaya. I am a graduate student at University of Massachusetts - Amherst majoring in Computer Science. 
+  "Hi!, I am Rohit Bangalore Vijaya. I am a graduate student at University of Massachusetts - Amherst majoring in Computer Science." 
 footer_text: >
   <a href="https://github.com/rohit-b-v" target="_blank">GitHub</a>
   <a href="www.linkedin.com/in/rohitbv2012" target="_blank">LinkedIn</a>.
